@@ -10,4 +10,6 @@ waze dev is a project with omnistack 10.0
 
 
 ## BASE DE DESENVOLVIMENTO
-* [ ] UPLOAD BASE DE DESENVOLVIMENTO (BASE ENVIROMENT)
+* [ ] BACKEND
+* [ ] FRONT-END (WEB)
+* [ ] FRONT-END (MOBILE)
